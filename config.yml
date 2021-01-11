@@ -1,0 +1,17 @@
+######################################
+#         1hp9lives Config           #
+#        (aka. Cat Survival)         #
+#           by TheAirBlow            #
+####################################################################
+#                        About Settings                            #
+# auto-start: Should 1hp9lives be automatically activated          #
+# hp: How many HP will player have                                 #
+# lives: How many lives will player have                           #
+# can-give-up: Can players use /catsurv giveup                     #
+# Every change will require in reloading config (/catsurv reload)  #
+####################################################################
+
+auto-start: false
+hp: 1
+lives: 9
+can-give-up: true

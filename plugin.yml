@@ -1,0 +1,12 @@
+name: 1hp9lives
+version: 1.0.0
+description: You have 1 hp, everything can one shot you. But you can respawn 9 times, and then not be able to. You're like a cat.
+author: TheAirBlow
+prefix: 1hp9lives
+ 
+main: net.theairblow.catsurv.Main
+ 
+commands:
+  catsurv:
+    description: 1hp9lives control command.
+    usage: Usage - /catsurv [start | stop] or /catsurv for more info.
